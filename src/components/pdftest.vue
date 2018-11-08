@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="row" ref="pdfDom" style="padding-top: 55px;background-color:#fff;">
-      给自己需要导出的ui部分.定义id为"pdfDom".此部分将就是pdf显示的部分<br>
+      分支测试，给自己需要导出的ui部分.定义id为"pdfDom".此部分将就是pdf显示的部分<br>
       本地图片
       <img src="../assets/logo.jpeg"><br>
       base64图片
